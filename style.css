@@ -27,7 +27,7 @@ body{
 }
 #joke{
     
-    height: 60%;
+ /*   height: 60%; */
     width: 90%;
     justify-content: center;
     align-items: center;
