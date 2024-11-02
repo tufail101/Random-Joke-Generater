@@ -16,7 +16,7 @@ body{
 }
 .container{
     background-color: aquamarine;
-    height: 250px;
+  /*  height: 250px; */
     width: 80%;
     min-height: 50%;
     margin-top: 20px;
